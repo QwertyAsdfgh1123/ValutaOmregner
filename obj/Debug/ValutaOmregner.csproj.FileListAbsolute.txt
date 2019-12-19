@@ -1,0 +1,16 @@
+C:\Users\legom\Dropbox\Skole\HTX\3. g\Programmering\(3) Arkitektur, objekter, nedarvning og dynamisk binding\Aflevering\Program\ValutaOmregner\bin\Debug\ValutaOmregner.exe.config
+C:\Users\legom\Dropbox\Skole\HTX\3. g\Programmering\(3) Arkitektur, objekter, nedarvning og dynamisk binding\Aflevering\Program\ValutaOmregner\bin\Debug\ValutaOmregner.exe
+C:\Users\legom\Dropbox\Skole\HTX\3. g\Programmering\(3) Arkitektur, objekter, nedarvning og dynamisk binding\Aflevering\Program\ValutaOmregner\bin\Debug\ValutaOmregner.pdb
+C:\Users\legom\Dropbox\Skole\HTX\3. g\Programmering\(3) Arkitektur, objekter, nedarvning og dynamisk binding\Aflevering\Program\ValutaOmregner\obj\Debug\ValutaOmregner.csprojAssemblyReference.cache
+C:\Users\legom\Dropbox\Skole\HTX\3. g\Programmering\(3) Arkitektur, objekter, nedarvning og dynamisk binding\Aflevering\Program\ValutaOmregner\obj\Debug\Controller.g.cs
+C:\Users\legom\Dropbox\Skole\HTX\3. g\Programmering\(3) Arkitektur, objekter, nedarvning og dynamisk binding\Aflevering\Program\ValutaOmregner\obj\Debug\MainWindow.g.cs
+C:\Users\legom\Dropbox\Skole\HTX\3. g\Programmering\(3) Arkitektur, objekter, nedarvning og dynamisk binding\Aflevering\Program\ValutaOmregner\obj\Debug\App.g.cs
+C:\Users\legom\Dropbox\Skole\HTX\3. g\Programmering\(3) Arkitektur, objekter, nedarvning og dynamisk binding\Aflevering\Program\ValutaOmregner\obj\Debug\ValutaOmregner_MarkupCompile.cache
+C:\Users\legom\Dropbox\Skole\HTX\3. g\Programmering\(3) Arkitektur, objekter, nedarvning og dynamisk binding\Aflevering\Program\ValutaOmregner\obj\Debug\ValutaOmregner_MarkupCompile.lref
+C:\Users\legom\Dropbox\Skole\HTX\3. g\Programmering\(3) Arkitektur, objekter, nedarvning og dynamisk binding\Aflevering\Program\ValutaOmregner\obj\Debug\Controller.baml
+C:\Users\legom\Dropbox\Skole\HTX\3. g\Programmering\(3) Arkitektur, objekter, nedarvning og dynamisk binding\Aflevering\Program\ValutaOmregner\obj\Debug\MainWindow.baml
+C:\Users\legom\Dropbox\Skole\HTX\3. g\Programmering\(3) Arkitektur, objekter, nedarvning og dynamisk binding\Aflevering\Program\ValutaOmregner\obj\Debug\ValutaOmregner.g.resources
+C:\Users\legom\Dropbox\Skole\HTX\3. g\Programmering\(3) Arkitektur, objekter, nedarvning og dynamisk binding\Aflevering\Program\ValutaOmregner\obj\Debug\ValutaOmregner.Properties.Resources.resources
+C:\Users\legom\Dropbox\Skole\HTX\3. g\Programmering\(3) Arkitektur, objekter, nedarvning og dynamisk binding\Aflevering\Program\ValutaOmregner\obj\Debug\ValutaOmregner.csproj.GenerateResource.cache
+C:\Users\legom\Dropbox\Skole\HTX\3. g\Programmering\(3) Arkitektur, objekter, nedarvning og dynamisk binding\Aflevering\Program\ValutaOmregner\obj\Debug\ValutaOmregner.exe
+C:\Users\legom\Dropbox\Skole\HTX\3. g\Programmering\(3) Arkitektur, objekter, nedarvning og dynamisk binding\Aflevering\Program\ValutaOmregner\obj\Debug\ValutaOmregner.pdb
